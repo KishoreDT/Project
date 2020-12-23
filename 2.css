@@ -1,0 +1,13 @@
+video{
+    position: fixed; right: 0; bottom: 0;
+    min-width: 100%; min-height: 100%;
+    width: auto; height: auto; z-index: -100;
+    background-size: cover;
+    margin: 0 auto;
+}
+h1{
+    font-size: 100px;
+    color: rgb(168, 5, 168);
+    text-align: center;
+    padding-top: 275px;
+}

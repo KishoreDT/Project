@@ -1,0 +1,54 @@
+body{
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+}
+.name{
+    border: 10px double rgb(37, 57, 236);
+    color: black;
+    width: 200px;
+}
+.Rating{
+    border: 10px double rgb(37, 57, 236);
+    color: black;
+    width: 300px;
+}
+.extra-info{
+    border: 10px double rgb(37, 57, 236);
+    color: black;
+    width: 350px;
+    height: auto;
+}
+button{
+    background-color: #4CAF50;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 5s;
+    border-radius: 15px;
+  }
+h1{
+    padding-top: 100px;
+    color: tomato;
+    font-size: 75px;
+}
+video{
+    position: fixed; right: 0; bottom: 0;
+    min-width: 100%; min-height: 100%;
+    width: auto; height: auto; z-index: -100;
+    background-size: cover;
+    margin: 0 auto;
+}
+.p{
+    padding: 10px;
+    position: relative;
+    top: auto;
+    width: 450px;
+    background-color: white;
+    opacity: 0.60;
+    font-style: bold;
+}
